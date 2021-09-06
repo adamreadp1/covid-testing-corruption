@@ -3,15 +3,15 @@ company_email_0,
 company_email_1,
 company_email_2,
 company_email_3,
-company_name,"0                       #nomad travel
-1             *everything genetic ltd
-2                      +44 covid test
-3      .0000covid 19 private test ltd
-4                    .0001 ace-thetix
-                    ...              
-708                              zava
-709                    zen healthcare
-710     zen healthcare (purecare ltd)
-711                           zoomdoc
-712                    zoomdoc health
-Name: company_name, Length: 713, dtype: object"
+company_name,"0                      #nomad travel
+1            *everything genetic ltd
+2       +001 expert covid testing uk
+3                  +247 travel tests
+4                     +44 covid test
+                   ...              
+712                             zava
+713                   zen healthcare
+714    zen healthcare (purecare ltd)
+715                          zoomdoc
+716                   zoomdoc health
+Name: company_name, Length: 717, dtype: object"
